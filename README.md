@@ -1,6 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b496ed30-8919-4aef-ab89-68b9d657218a/deploy-status)](https://app.netlify.com/sites/camylle/deploys)
+[![GitHub issues](https://img.shields.io/github/issues/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/network)
+[![GitHub stars](https://img.shields.io/github/stars/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/stargazers)
+[![GitHub license](https://img.shields.io/github/license/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/blob/main/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fjcgsr%2Fset-Camylle)
 
 <p align="center">
   <a href="https://www.camylleazevedo.com.br">
