@@ -3,8 +3,10 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
-
+import Contatos from "../components/contatos"
+import Scroll from "./scroll"
 import "../assets/css/main.css"
+import Whatsapp from "./whatsapp"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -21,6 +23,10 @@ const Layout = ({ children }) => {
     <>
       <Header />
       <main>{children}</main>
+      <Whatsapp />
+      <Scroll />
+    <Contatos />
+
     </>
   )
 }

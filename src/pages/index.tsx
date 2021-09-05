@@ -6,7 +6,6 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-import Contatos from "../components/contatos"
 
 const IndexPage = () => (
   <Layout>
@@ -17,7 +16,6 @@ const IndexPage = () => (
       placeholder="tracedSVG"
       alt="Camylle Azevedo"
     />
-    <Contatos />
   </Layout>
 )
 

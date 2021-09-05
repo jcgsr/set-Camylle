@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <>
       <nav>
-        <div className="navbar">
+        <div className="navbar" id="header">
           <section className="logo">
             <Link to="/" className="nav-logo">
               <img
@@ -35,13 +35,16 @@ const Header = () => {
             <Link to="/aba">
               <button>intervenção aba intensiva</button>
             </Link>{" "}
-            <Link to="/treinamento">
+            <Link to="/treinamento-parental">
               <button>treinamento parental</button>
             </Link>{" "}
             <Link to="/supervisao">
               <button>supervisão profissional</button>
             </Link>{" "}
             <Link to="/cursos">
+              <button>cursos</button>
+            </Link>
+            <Link to="/fale-conosco">
               <button>fale conosco</button>
             </Link>
           </div>
