@@ -58,6 +58,10 @@ typings/
 .cache/
 public
 
+#node_modules
+/node_modules
+node_modules
+
 # Mac files
 .DS_Store
 
