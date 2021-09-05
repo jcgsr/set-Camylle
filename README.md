@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/network)
 [![GitHub stars](https://img.shields.io/github/stars/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/stargazers)
 [![GitHub license](https://img.shields.io/github/license/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/blob/main/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fjcgsr%2Fset-Camylle)
+
 
 <p align="center">
   <a href="https://www.camylleazevedo.com.br">
@@ -16,7 +16,7 @@
  Camylle Azevedo
 </h1>
 
-Site da psicólga infantil, Camylle Azevedo. Reescrito em Gatsby e TypeScript.
+Site da psicóloga infantil, Camylle Azevedo. Reescrito em Gatsby e TypeScript.
 
 ## Preview
 
