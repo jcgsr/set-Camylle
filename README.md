@@ -5,18 +5,18 @@
 [![GitHub forks](https://img.shields.io/github/forks/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/network)
 [![GitHub stars](https://img.shields.io/github/stars/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/stargazers)
 [![GitHub license](https://img.shields.io/github/license/jcgsr/set-Camylle)](https://github.com/jcgsr/set-Camylle/blob/main/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fjcgsr%2Fset-Camylle)
+
 
 <p align="center">
   <a href="https://www.camylleazevedo.com.br">
-    <img alt="Camylle Azeved" src="https://www.camylleazevedo.com.br/img/capa.7b3d13d1.jpg" width="200" />
+    <img alt="Camylle Azevedo" src="https://www.camylleazevedo.com.br/static/3d695bd5ccb9169a89f8d24045ff7fec/78d40/intervencao.webp" width="200" />
   </a>
 </p>
 <h1 align="center">
  Camylle Azevedo
 </h1>
 
-Site da psicólga infantil, Camylle Azevedo. Reescrito em Gatsby e TypeScript.
+Site da psicóloga infantil, Camylle Azevedo. Reescrito em Gatsby e TypeScript.
 
 ## Preview
 
