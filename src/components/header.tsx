@@ -1,12 +1,12 @@
-import React, { useState } from "react"
-import { Link } from "gatsby"
+import React, { useState } from "react";
+import { Link } from "gatsby";
 
-import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai"
+import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 
-import logo from "../assets/images/signature.jpeg"
+import logo from "../assets/images/signature.jpeg";
 
 const Header = () => {
-  const [showLinks, setShowLinks] = useState(false)
+  const [showLinks, setShowLinks] = useState(false);
   return (
     <>
       <nav>
@@ -47,7 +47,11 @@ const Header = () => {
             <Link to="/fale-conosco">
               <button>fale conosco</button>
             </Link>
+            <Link to="/downloads">
+              <button>Downloads</button>
+            </Link>
           </div>
+
           <div className="nav-icon">
             <span onClick={() => setShowLinks(!showLinks)}>
               {!showLinks ? <AiOutlineMenu /> : <AiOutlineClose />}
@@ -56,7 +60,7 @@ const Header = () => {
         </div>
       </nav>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

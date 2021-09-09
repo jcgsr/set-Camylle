@@ -80,7 +80,8 @@ hr {
   height: 1.2rem;
   text-decoration: none;
 }
-.links button {
+.links button,
+.btn {
   padding: 0.5rem;
   background-color: transparent;
   transition: var(--transition);
@@ -88,7 +89,8 @@ hr {
   cursor: pointer;
   text-transform: capitalize;
 }
-.links button:hover {
+.links button:hover,
+.btn:hover {
   background-color: var(--sec);
   color: var(--ter);
 }
