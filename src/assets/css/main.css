@@ -303,4 +303,51 @@ hr {
   margin: 0 auto;
 }
 
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+  /* margin: 0 auto; */
+}
+
+.galeria img {
+  /*width: 400px;*/
+  /*height: 400px;*/
+  /*margin-bottom: 1rem;*/
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 456px) {
+  .galeria {
+    margin: 0 auto;
+  }
+  .galeria img {
+    width: 100%;
+  }
+}
+
+.container {
+  display: flex;
+  grid-template-columns: repeat(auto-fill, minmax(4100px, 1fr));
+  gap: 1rem;
+  flex-direction: column;
+  text-align: center;
+  margin: 1rem;
+  padding: 1rem;
+  min-height: 100vh;
+}
+.apostila {
+  width: 100%;
+  height: 100px;
+  background-color: var(--sec);
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.apostila span {
+  color: var(--pri);
+  padding-top: 2rem;
+  font-weight: bolder;
+}
 /* CLASSES */
