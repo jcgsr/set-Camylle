@@ -21,9 +21,18 @@ const Downloads = () => (
           alt="Apostila"
         />
         <h1>Downloads</h1>
-        <a className="btn" target="new" href="camylle-material.pdf">
-          Apostila de Habilidades Emocionais
-        </a>
+        <ul>
+          <li>
+            <a className="btn" target="new" href="camylle-material.pdf">
+              Apostila de Habilidades Emocionais
+            </a>
+          </li>
+          <li>
+            <a className="btn" target="new" href="camylle-listadecompras.pdf">
+              Lista de Mercado
+            </a>
+          </li>
+        </ul>
       </section>
     </main>
   </Layout>
