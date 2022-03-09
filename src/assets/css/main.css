@@ -350,4 +350,29 @@ hr {
   padding-top: 2rem;
   font-weight: bolder;
 }
+/*.btn-apostila a {
+  background-color: none;
+  padding: 0;
+  margin: 0;
+}*/
+.apostila-container {
+  margin: 0 auto;
+  text-align: center;
+}
+.btn-apostila {
+  margin: 2rem auto;
+  text-align: center;
+  background-color: var(--fifth);
+  width: 40%;
+  border-radius: 5px;
+  color: var(--pri);
+  font-size: large;
+  padding: 1rem;
+  box-shadow: var(--shadow-1);
+}
+.btn-apostila:hover {
+  background-color: var(--sec);
+  color: var(--pri);
+  transition: var(--transition);
+}
 /* CLASSES */

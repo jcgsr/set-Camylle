@@ -50,6 +50,9 @@ const Header = () => {
             <Link to="/downloads">
               <button>Downloads</button>
             </Link>
+            <Link to="/apostila">
+              <button>Apostila</button>
+            </Link>
             <Link to="/telegram">
               <button>Canal do Telegram</button>
             </Link>
