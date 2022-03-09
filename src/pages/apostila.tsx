@@ -7,7 +7,7 @@ import Seo from "../components/seo";
 const Apostila = () => {
   return (
     <Layout>
-      <Seo title="Apostila" description="Página sobre Apostila" />
+      <Seo title="Apostila" description="Apostila De Painéis Temáticos" />
       <main>
         <article className="card">
           <StaticImage
@@ -37,7 +37,7 @@ const Apostila = () => {
         </article>
         <div className="apostila-container">
           <a
-            href="https://www.hotmart.com/pt-BR?gclid=CjwKCAiAvaGRBhBlEiwAiY-yMEaGpoiF61AsAAZM0hB0AGTelCfRzHWtZiqfnWzwrsMWtvVugV2amxoC7d0QAvD_BwE"
+            href="https://www.hotmart.com/product/apostila-de-paineis-tematicos/I67840014C"
             target="_blank"
             rel="noopener"
           >
