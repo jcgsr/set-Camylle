@@ -44,7 +44,7 @@ const Apostila = () => {
             <button className="btn-apostila">Comprar Apostila</button>
           </a>
         </div>
-        <hr />
+        <hr id="hrApostila" />
 
         <article className="card">
           <StaticImage
