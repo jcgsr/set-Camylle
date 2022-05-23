@@ -14,10 +14,10 @@ const Apostila = () => {
             src="../assets/images/apostila.jpeg"
             layout="constrained"
             placeholder="tracedSVG"
-            alt="Capa da Apostila ABA"
+            alt="Capa da Apostila Paineis Temáticos"
           />
 
-          <h1>Apostila</h1>
+          <h1>Apostila Paineis Temáticos</h1>
           <p>
             Esta apostila foi elaborada para agilizar e facilitar a intervenção
             do terapeuta ABA no DOMÍNIO PERCEPÇÃO VISUAL (nível intermediário).
@@ -38,6 +38,41 @@ const Apostila = () => {
         <div className="apostila-container">
           <a
             href="https://www.hotmart.com/product/apostila-de-paineis-tematicos/I67840014C"
+            target="_blank"
+            rel="noopener"
+          >
+            <button className="btn-apostila">Comprar Apostila</button>
+          </a>
+        </div>
+        <hr />
+
+        <article className="card">
+          <StaticImage
+            src="../assets/images/apostila2.jpeg"
+            layout="constrained"
+            placeholder="tracedSVG"
+            alt="Capa da Apostila TATO Nomeação"
+          />
+
+          <h1>Apostila TATO Nomeação</h1>
+          <p>
+            Esta é uma apostila com 154 ilustrações de figuras divididos em 10
+            classes de categorias para a estimulação do Domínio do
+            desenvolvimento TATO nomeação. .
+          </p>
+          <p>
+            Nela você poderá trabalhar com a criança áreas de tato; linguagem;
+            comportamento de ouvinte e categorização.
+          </p>
+          <p>
+            Ideal para terapeutas infantis e pais que queiram ter acesso a
+            materiais educativos com foco no desenvolvimento global.
+          </p>
+          <p>Para adquiri-la, basta clicar no botão abaixo:</p>
+        </article>
+        <div className="apostila-container">
+          <a
+            href="https://hotmart.com/pt-br/marketplace/produtos/apostila-tato-nomeacao-nivel-1/M71006382E"
             target="_blank"
             rel="noopener"
           >

@@ -51,7 +51,7 @@ const Header = () => {
               <button>Downloads</button>
             </Link>
             <Link to="/apostila">
-              <button>Apostila</button>
+              <button>Apostilas</button>
             </Link>
             <Link to="/telegram">
               <button>Canal do Telegram</button>
