@@ -60,6 +60,7 @@ hr {
   text-align: center;
   margin: 2rem;
 }
+
 /* TAGS */
 
 /* IDS */
@@ -70,6 +71,7 @@ hr {
   text-align: center;
   margin: 2rem;
 }
+
 /* IDS */
 
 /* ========= */
@@ -380,6 +382,16 @@ hr {
 .btn-apostila:hover {
   background-color: var(--sec);
   color: var(--pri);
+  transition: var(--transition);
+}
+
+.cursos {
+  color: var(--sec);
+  text-decoration: underline;
+}
+
+.cursos:hover {
+  color: var(--fifth);
   transition: var(--transition);
 }
 /* CLASSES */

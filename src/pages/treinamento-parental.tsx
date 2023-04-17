@@ -14,7 +14,7 @@ const Treinamento = () => {
       <main>
         <article className="card">
           <StaticImage
-            src="../assets/images/clients.jpg"
+            src="../assets/images/trein_pais.jpeg"
             layout="constrained"
             placeholder="tracedSVG"
             alt="Camylle ao telefone"
