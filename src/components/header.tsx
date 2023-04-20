@@ -3,6 +3,9 @@ import { Link } from "gatsby";
 
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 
+import { MdArrowDropDown } from "react-icons/md";
+
+// @ts-ignore
 import logo from "../assets/images/signature.jpeg";
 
 const Header = () => {
@@ -55,6 +58,16 @@ const Header = () => {
             </Link>
             <Link to="/telegram">
               <button>Canal do Telegram</button>
+            </Link>
+            <Link className="dropdown" to="#">
+              <button>
+                Links <MdArrowDropDown />
+              </button>
+              <div className="dropdown-content">
+                <a href="https://api.whatsapp.com/send?phone=5579816534346&text=Olá! Gostaria de mais informações sobre o Somar Espaço Terapêutico.">
+                  Somar Espaço Terapêutico{" "}
+                </a>
+              </div>
             </Link>
           </div>
 
