@@ -59,7 +59,7 @@ const Header = () => {
             <Link to="/telegram">
               <button>Canal do Telegram</button>
             </Link>
-            <Link className="dropdown" to="#">
+            <Link className="dropdown">
               <button>
                 Links <MdArrowDropDown />
               </button>
