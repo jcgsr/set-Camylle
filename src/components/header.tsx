@@ -59,7 +59,10 @@ const Header = () => {
             <Link to="/telegram">
               <button>Canal do Telegram</button>
             </Link>
-            <Link className="dropdown">
+            <Link to="/links">
+              <button>Links</button>
+            </Link>
+            {/* <Link className="dropdown">
               <button>
                 Links <MdArrowDropDown />
               </button>
@@ -68,7 +71,7 @@ const Header = () => {
                   Somar Espaço Terapêutico{" "}
                 </a>
               </div>
-            </Link>
+            </Link> */}
           </div>
 
           <div className="nav-icon">

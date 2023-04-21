@@ -182,6 +182,51 @@ hr {
   }
 }
 
+.card-links {
+  width: 75%;
+  text-align: center;
+  margin: 1rem auto;
+  padding: 1rem;
+  line-height: 1.8rem;
+  background-color: var(--four);
+  box-shadow: var(--shadow-1);
+  border-radius: 5px;
+}
+
+.card-links h1 {
+  color: var(--pri);
+}
+
+.card-links button {
+  background-color: var(--pri);
+  border-radius: 5px;
+  margin-bottom: 1.5rem;
+  width: 70%;
+}
+
+.card-links a {
+  color: var(--sixth);
+}
+
+.card-links button:hover {
+  background-color: var(--sixth);
+  transition: var(--transition);
+}
+
+.card-links a:hover {
+  color: var(--pri);
+  transition: var(--transition);
+}
+
+@media screen and (max-width: 456px) {
+  .card-links {
+    width: 90%;
+  }
+  .card-links button {
+    width: 90%;
+  }
+}
+
 .contatos {
   display: flex;
   flex-direction: column;
@@ -394,8 +439,8 @@ hr {
   color: var(--fifth);
   transition: var(--transition);
 }
-
-.dropdown {
+/* DROPDOWN */
+/* .dropdown {
   position: relative;
   display: inline-block;
 }
@@ -419,5 +464,6 @@ hr {
   background-color: var(--pri);
   color: var(--four);
   transition: var(--transition);
-}
+} */
+/* DROPDOWN */
 /* CLASSES */
