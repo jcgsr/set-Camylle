@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "site_de_camylle",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Site da psicóloga, Camylle Azevedo",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jovane Rocha <cabralgurra@gmail.com>",
   "dependencies": {
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9",
